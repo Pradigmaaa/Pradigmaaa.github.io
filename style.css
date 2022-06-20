@@ -39,7 +39,7 @@ body {
 }
 
 #userName {
-	color: white;
+	color: #292929;
 	font-size: 1rem;
 	font-weight: 600;
 	line-height: 1.25;
@@ -69,7 +69,7 @@ body {
 
 .link {
 	display: block;
-	background-color: #1c1c1c;
+	background-color: #292929;
 	color: #fff;
 	font-family: var(--font);
 	text-align: center;
@@ -110,7 +110,7 @@ body {
 }
 
 .media {
-	background: #1c1c1c;
+	background: #292929;
 	width: 38px;
 	height: 38px;
 	text-align: center;
