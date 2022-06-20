@@ -9,7 +9,7 @@ html, body {
   height: 50%;
 }
 body {
-  margin-bottom: -400;
+  margin-bottom: -400px;
 }
 
 #canvas {
