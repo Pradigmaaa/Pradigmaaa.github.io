@@ -10,6 +10,11 @@ html, body {
   padding: 0;
   font-family: var(--font);
   overflow: hidden;
+  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
 }
 
 /* html, body {
